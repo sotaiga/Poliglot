@@ -1,0 +1,10 @@
+{
+    "name": "sotaiga/poliglot",
+    "description": "Web multi-idioma",
+    "autoload": {
+        "psr-4": {
+            "Sotaiga\\Poliglot\\": "src/"
+        }
+    },
+    "require": {}
+}
