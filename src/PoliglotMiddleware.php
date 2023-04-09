@@ -2,6 +2,7 @@
 
 namespace Sotaiga\Poliglot;
 
+use App;
 use Closure;
 use Illuminate\Http\Request;
 
