@@ -32,7 +32,7 @@ class PoliglotMiddleware
             }
 
             // session(['locale' => $segment]);
-            app()->setLocale($segment);
+            App::setLocale($segment);
         }
 
         return $next($request);
